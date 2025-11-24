@@ -1,0 +1,38 @@
+Added Component: Designator=J9(HDR 1x8 TH male)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Pin-Headers_XKB-Connection-X6511WV-08H-C60D30_C706880.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Male Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C706880"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XKB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "X6511WV-08H-C60D30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Plugin,P=2.54mm"; VariantName = "[No Variations]"
+Added Component: Designator=J10(HDR 1x8 TH male)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Pin-Headers_XKB-Connection-X6511WV-08H-C60D30_C706880.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Male Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C706880"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XKB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "X6511WV-08H-C60D30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Plugin,P=2.54mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=D4 Pin=J9-1
+Added Pin To Net: NetName=D3 Pin=J9-2
+Added Pin To Net: NetName=D2 Pin=J9-3
+Added Pin To Net: NetName=3V3 Pin=J9-4
+Added Pin To Net: NetName=NetR1_1 Pin=J9-5
+Added Pin To Net: NetName=D5 Pin=J9-6
+Added Pin To Net: NetName=GND Pin=J9-7
+Added Pin To Net: NetName=GND Pin=J10-1
+Added Pin To Net: NetName=D12 Pin=J10-2
+Added Pin To Net: NetName=D11 Pin=J10-3
+Added Pin To Net: NetName=D13 Pin=J10-4
+Added Pin To Net: NetName=D10 Pin=J10-5
+Added Pin To Net: NetName=A0 Pin=J10-6
+Added Pin To Net: NetName=D9 Pin=J10-7
+Added Pin To Net: NetName=GND Pin=J10-8
+Change Net Name : Old Net Name=NetR1_1 New Net Name=DIO4
+Added Pin To Net: NetName=ANT Pin=J3-1
+Added Pin To Net: NetName=ANT Pin=J9-8
+Added Pin To Net: NetName=ANT Pin=U1-9
+Added Net: Name=ANT
+Added Member To Class: ClassName=shield Member=Component J9 X6511WV-08H-C60D30
+Added Member To Class: ClassName=shield Member=Component J10 X6511WV-08H-C60D30

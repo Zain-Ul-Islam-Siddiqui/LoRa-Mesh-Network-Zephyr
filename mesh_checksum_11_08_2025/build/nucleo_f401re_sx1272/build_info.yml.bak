@@ -1,0 +1,7 @@
+west:
+  command: c:\Users\ZainSiddiqui\zephyrproject\.venv\Scripts\west build -b nucleo_f401re
+    c:\Users\ZainSiddiqui\zephyrproject\mesh_checksum_11_08_2025 -p --build-dir c:\Users\ZainSiddiqui\zephyrproject\mesh_checksum_11_08_2025\build\nucleo_f401re_sx1272
+    -- -DBOARD_ROOT=c:\Users\ZainSiddiqui\zephyrproject\external\zephyr -DCONFIG_DEBUG_OPTIMIZATIONS=y
+    -DCONFIG_DEBUG_THREAD_INFO=y -DSHIELD=semtech_sx1272mb2das
+  topdir: c:\Users\ZainSiddiqui\zephyrproject
+  version: 1.4.0

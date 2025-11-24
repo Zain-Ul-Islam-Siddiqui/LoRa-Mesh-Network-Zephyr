@@ -1,0 +1,54 @@
+cmake:
+  application:
+    configuration-dir: C:/Users/ZainSiddiqui/zephyrproject/mesh_checksum_11_08_2025
+    source-dir: C:/Users/ZainSiddiqui/zephyrproject/mesh_checksum_11_08_2025
+  board:
+    name: nucleo_f401re
+    path:
+     - C:/Users/ZainSiddiqui/zephyrproject/external/zephyr/boards/st/nucleo_f401re
+    qualifiers: stm32f401xe
+    revision: 
+  devicetree:
+    bindings-dirs:
+     - C:/Users/ZainSiddiqui/zephyrproject/external/zephyr/dts/bindings
+    files:
+     - C:/Users/ZainSiddiqui/zephyrproject/external/zephyr/boards/st/nucleo_f401re/nucleo_f401re.dts
+     - C:/Users/ZainSiddiqui/zephyrproject/external/zephyr/boards/shields/semtech_sx1276mb1mas/semtech_sx1276mb1mas.overlay
+    include-dirs:
+     - C:/Users/ZainSiddiqui/zephyrproject/external/modules/hal/atmel/include
+     - C:/Users/ZainSiddiqui/zephyrproject/external/modules/hal/gigadevice/include
+     - C:/Users/ZainSiddiqui/zephyrproject/external/modules/hal/microchip/include
+     - C:/Users/ZainSiddiqui/zephyrproject/external/modules/hal/microchip/dts
+     - C:/Users/ZainSiddiqui/zephyrproject/external/modules/hal/nuvoton/dts
+     - C:/Users/ZainSiddiqui/zephyrproject/external/modules/hal/nxp/dts
+     - C:/Users/ZainSiddiqui/zephyrproject/external/modules/hal/stm32/dts
+     - C:/Users/ZainSiddiqui/zephyrproject/external/zephyr/include
+     - C:/Users/ZainSiddiqui/zephyrproject/external/zephyr/include/zephyr
+     - C:/Users/ZainSiddiqui/zephyrproject/external/zephyr/dts/common
+     - C:/Users/ZainSiddiqui/zephyrproject/external/zephyr/dts/x86
+     - C:/Users/ZainSiddiqui/zephyrproject/external/zephyr/dts/xtensa
+     - C:/Users/ZainSiddiqui/zephyrproject/external/zephyr/dts/sparc
+     - C:/Users/ZainSiddiqui/zephyrproject/external/zephyr/dts/riscv
+     - C:/Users/ZainSiddiqui/zephyrproject/external/zephyr/dts/posix
+     - C:/Users/ZainSiddiqui/zephyrproject/external/zephyr/dts/nios2
+     - C:/Users/ZainSiddiqui/zephyrproject/external/zephyr/dts/arm64
+     - C:/Users/ZainSiddiqui/zephyrproject/external/zephyr/dts/arm
+     - C:/Users/ZainSiddiqui/zephyrproject/external/zephyr/dts/arc
+     - C:/Users/ZainSiddiqui/zephyrproject/external/zephyr/dts
+  kconfig:
+    files:
+     - C:/Users/ZainSiddiqui/zephyrproject/external/zephyr/boards/st/nucleo_f401re/nucleo_f401re_defconfig
+     - C:/Users/ZainSiddiqui/zephyrproject/mesh_checksum_11_08_2025/prj.conf
+    user-files:
+     - C:/Users/ZainSiddiqui/zephyrproject/mesh_checksum_11_08_2025/prj.conf
+  toolchain:
+    name: zephyr
+    path: C:/Users/ZainSiddiqui/.zephyr_ide/toolchains/zephyr-sdk-0.17.0
+  zephyr:
+    version: 4.1.0
+    zephyr-base: C:/Users/ZainSiddiqui/zephyrproject/external/zephyr
+version: 0.1.0
+west:
+  command: c:\Users\ZainSiddiqui\zephyrproject\.venv\Scripts\west build -p -b nucleo_f401re --shield semtech_sx1276mb1mas -d build
+  topdir: C:\Users\ZainSiddiqui\zephyrproject
+  version: 1.4.0

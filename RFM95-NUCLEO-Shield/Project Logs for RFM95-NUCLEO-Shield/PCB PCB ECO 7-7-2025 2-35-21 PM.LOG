@@ -1,0 +1,98 @@
+Added Component: Designator=A1(ARDUINO_ARDUINO_UNO_REV3)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ARDUINO%20UNO%20REV3/Arduino/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ARDUINO UNO REV3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Non-Standard Arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ARDUINO%20UNO%20REV3/Arduino/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component: Footprint Not Found ARDUINO_ARDUINO_UNO_REV3
+Added Component: Designator=A?(ARDUINO_ARDUINO_UNO_REV3)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ARDUINO%20UNO%20REV3/Arduino/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ARDUINO UNO REV3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Non-Standard Arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ARDUINO%20UNO%20REV3/Arduino/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=A?(ARDUINO_ARDUINO_UNO_REV3)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ARDUINO%20UNO%20REV3/Arduino/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ARDUINO UNO REV3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Non-Standard Arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ARDUINO%20UNO%20REV3/Arduino/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=A?(ARDUINO_ARDUINO_UNO_REV3)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ARDUINO%20UNO%20REV3/Arduino/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ARDUINO UNO REV3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Non-Standard Arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ARDUINO%20UNO%20REV3/Arduino/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=A?(ARDUINO_ARDUINO_UNO_REV3)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ARDUINO%20UNO%20REV3/Arduino/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ARDUINO UNO REV3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Non-Standard Arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ARDUINO%20UNO%20REV3/Arduino/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U1(MODULE_RFM95W-868S2R)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RFM95W-868S2R/HOPE+Microelectronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Hope Microelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RFM95W-868S2R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RFM95W-868S2R/HOPE+Microelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=A1-3V3
+Added Pin To Net: NetName=+5V Pin=A1-5V
+Added Pin To Net: NetName=A0 Pin=A1-A0
+Added Pin To Net: NetName=A1 Pin=A1-A1
+Added Pin To Net: NetName=A2 Pin=A1-A2
+Added Pin To Net: NetName=A3 Pin=A1-A3
+Added Pin To Net: NetName=A4_SDA Pin=A1-A4_SDA
+Added Pin To Net: NetName=A4 Pin=A1-A4
+Added Pin To Net: NetName=A5_SCL Pin=A1-A5_SCL
+Added Pin To Net: NetName=A5 Pin=A1-A5
+Added Pin To Net: NetName=AREF Pin=A1-AREF
+Added Pin To Net: NetName=D0 Pin=A1-D0
+Added Pin To Net: NetName=D1 Pin=A1-D1
+Added Pin To Net: NetName=D2 Pin=A1-D2
+Added Pin To Net: NetName=D3 Pin=A1-D3
+Added Pin To Net: NetName=D4 Pin=A1-D4
+Added Pin To Net: NetName=D5 Pin=A1-D5
+Added Pin To Net: NetName=D6 Pin=A1-D6
+Added Pin To Net: NetName=D7 Pin=A1-D7
+Added Pin To Net: NetName=D8 Pin=A1-D8
+Added Pin To Net: NetName=D9 Pin=A1-D9
+Added Pin To Net: NetName=D10 Pin=A1-D10
+Added Pin To Net: NetName=D11 Pin=A1-D11
+Added Pin To Net: NetName=D12 Pin=A1-D12
+Added Pin To Net: NetName=D13 Pin=A1-D13
+Added Pin To Net: NetName=GND Pin=A1-GND_1
+Added Pin To Net: NetName=GND Pin=A1-GND_2
+Added Pin To Net: NetName=GND Pin=A1-GND_3
+Added Pin To Net: NetName=IOREF Pin=A1-IOREF
+Added Pin To Net: NetName=P1 Pin=A1-P1
+Added Pin To Net: NetName=RST Pin=A1-RST
+Added Pin To Net: NetName=VIN Pin=A1-VIN
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=D12 Pin=U1-2
+Added Pin To Net: NetName=D11 Pin=U1-3
+Added Pin To Net: NetName=D13 Pin=U1-4
+Added Pin To Net: NetName=D10 Pin=U1-5
+Added Pin To Net: NetName=A0 Pin=U1-6
+Added Pin To Net: NetName=D9 Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=NetJ3_1 Pin=U1-9
+Added Pin To Net: NetName=GND Pin=U1-10
+Added Pin To Net: NetName=D5 Pin=U1-11
+Added Pin To Net: NetName=NetR1_1 Pin=U1-12
+Added Pin To Net: NetName=3V3 Pin=U1-13
+Added Pin To Net: NetName=D2 Pin=U1-14
+Added Pin To Net: NetName=D3 Pin=U1-15
+Added Pin To Net: NetName=D4 Pin=U1-16
+Added Member To Class: ClassName=shield Member=Component A1 ARDUINO_UNO_REV3
+Added Member To Class: ClassName=shield Member=Component A1 ARDUINO_UNO_REV3
+Added Member To Class: ClassName=shield Member=Component A? ARDUINO_UNO_REV3
+Added Member To Class: ClassName=shield Member=Component A? ARDUINO_UNO_REV3
+Added Member To Class: ClassName=shield Member=Component A? ARDUINO_UNO_REV3
+Added Member To Class: ClassName=shield Member=Component A? ARDUINO_UNO_REV3
+Added Member To Class: ClassName=shield Member=Component U1 RFM95W-868S2R

@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=J9-7
+Change Component Footprint: Designator=J9 Old Footprint=HDR 1x8 TH male New Footprint=HDR1X6_
+Change Component Comment : Designator=J9 Old Comment=X6511WV-08H-C60D30 New Comment=X6511WV-06H-C60D30
+Change component parameters: Designator = "J9" ("J9"); Footprint = "HDR 1x8 TH male"; UniqueID = "\EXLBJXCN" ("\EXLBJXCN")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Pin-Headers_XKB-Connectivity-X6511WV-06H-C60D30_C706878.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Item Type"; Value = "Male Header"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C706878"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "XKB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "X6511WV-06H-C60D30"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Plugin,P=2.54mm"; VariantName = "[No Variations]"

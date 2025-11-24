@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=3V3 Pin=A1-3V3
+Removed Pin From Net: NetName=D0 Pin=A1-D0
+Removed Pin From Net: NetName=D1 Pin=A1-D1
+Removed Pin From Net: NetName=D2 Pin=A1-D2
+Removed Pin From Net: NetName=D3 Pin=A1-D3
+Removed Pin From Net: NetName=D4 Pin=A1-D4
+Removed Pin From Net: NetName=D5 Pin=A1-D5
+Removed Pin From Net: NetName=D6 Pin=A1-D6
+Removed Pin From Net: NetName=D7 Pin=A1-D7
+Removed Pin From Net: NetName=3V3 Pin=J4-5
+Added Pin To Net: NetName=VDD Pin=A1-3V3
+Added Pin To Net: NetName=D0 Pin=A1-D0
+Added Pin To Net: NetName=D1 Pin=A1-D1
+Added Pin To Net: NetName=D2 Pin=A1-D2
+Added Pin To Net: NetName=D3 Pin=A1-D3
+Added Pin To Net: NetName=D4 Pin=A1-D4
+Added Pin To Net: NetName=D5 Pin=A1-D5
+Added Pin To Net: NetName=D6 Pin=A1-D6
+Added Pin To Net: NetName=D7 Pin=A1-D7
+Added Pin To Net: NetName=VDD Pin=J4-5
+Added Member To Class: ClassName=shield Member=Component A1 ARDUINO_UNO_REV3
