@@ -2,12 +2,12 @@
 #include <LoRa.h>
 #include "GatewayFirebase.hpp"
 
-#define WIFI_SSID "VM4204423"//VM4204423
-#define WIFI_PASSWORD "cdxk5MyFmhdb"//cdxk5MyFmhdb
-#define API_KEY "AIzaSyAKTTz2q61WZQ_wn8_gUM3xqqMDRLbz6cc"
-#define USER_EMAIL "zain.siddiqui0071@gmail.com"
-#define USER_PASSWORD "tuzaes006"
-#define PROJECT_ID "lora-mesh-network-51116"
+#define WIFI_SSID ""//Wifi SSID
+#define WIFI_PASSWORD ""// Wifi Password
+#define API_KEY ""//Firebase Project API Key
+#define USER_EMAIL ""
+#define USER_PASSWORD ""//Firebase Project Password
+#define PROJECT_ID ""//Firebase Project ID
 #define GATEWAY_ID 0x10
 #define CACHE_SIZE 64
 static struct recent_entry
