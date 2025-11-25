@@ -36,3 +36,4 @@ The gateway (ESP32 + LoRa module) aggregates multihop packets and pushes data to
 - Hardware assembly + LoRa shield PCB
 
 ![Alt text](Nucleo.webp)
+![Alt text](RFM95_Shield.jpg)
