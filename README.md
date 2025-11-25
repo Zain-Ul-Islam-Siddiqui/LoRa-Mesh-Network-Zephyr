@@ -1,5 +1,5 @@
 # LoRa Mesh Network Using Zephyr RTOS
-## Overview (for project grid / cards)
+## Overview
 
 Designed and implemented a fully functional LoRa-based mesh network capable of multi-hop wireless communication in remote, infrastructure-limited areas. Built a custom routing protocol with packet forwarding, TTL enforcement, duplicate suppression, and Zephyr-powered multitasking.
 
