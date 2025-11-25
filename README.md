@@ -1,5 +1,5 @@
 # LoRa Mesh Network Using Zephyr RTOS
-## Overview (for project grid / cards)
+## Overview
 
 Designed and implemented a fully functional LoRa-based mesh network capable of multi-hop wireless communication in remote, infrastructure-limited areas. Built a custom routing protocol with packet forwarding, TTL enforcement, duplicate suppression, and Zephyr-powered multitasking.
 
@@ -35,5 +35,7 @@ The gateway (ESP32 + LoRa module) aggregates multihop packets and pushes data to
 - Multi-hop testing and system evaluation
 - Hardware assembly + LoRa shield PCB
 
+## Nucleo F411RE (Processor)
 ![Alt text](Nucleo.webp)
+## LoRa Shield (RFM95)
 ![Alt text](RFM95_Shield.jpg)
